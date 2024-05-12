@@ -6,16 +6,12 @@ This Laravel project implements a basic A/B testing system, allowing us to test 
 
 - **A/B Test Management**: Create and manage A/B tests with multiple variants.
 - **Session-based Variant Assignment**: Assigns variants to users based on defined targeting ratios, ensuring consistent experience during the session.
-- **Dynamic Content Rendering**: Changes in webpage content based on the assigned variant.
-- **Professional Logging**: Logs important actions and decisions in the system, aiding in debugging and monitoring.
 
 ## Getting Started
 
 These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them:
 
 ```bash
 - PHP >= 7.3
